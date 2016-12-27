@@ -1,3 +1,3 @@
-# OAuth2-server-container
+# JWT-server
 
   generate custom JWT tokwn.
